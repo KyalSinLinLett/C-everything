@@ -1,0 +1,5 @@
+Topics to dig deeper
+--------------------
+1. dealing with a dynamic array in C.
+2. data type checking in C. 
+3. getting the length/size of the array.
